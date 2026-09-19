@@ -1,0 +1,12 @@
+# Dependencies and System
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+
+# IDE Configuration
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
